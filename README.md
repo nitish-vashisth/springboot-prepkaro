@@ -199,9 +199,11 @@ Interview Bit ->  https://www.interviewbit.com/spring-boot-interview-questions/
 
 Referernces
 
-| Link 													        	  | Status   |
+| Link 													        	  | Topics   |
 |-------------------------------------------------------------------------------------------------------------------------|----------|
 |[Spring Boot Quick Start](https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)           |          |
+| [Spring Security ]([url](https://www.youtube.com/watch?v=sm-8qfMWEV8&list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE)  	  |          |
+| [Spring Boot Microservices Level ](https://www.youtube.com/watch?v=y8IQb4ofjDo&list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas) | Communication and discovery |
 |[Spring Boot Microservices Level 2](https://www.youtube.com/watch?v=o8RO38KbWvA&list=PLqq-6Pq4lTTbXZY_elyGv7IkKrfkSrX5e) |          |
 
 
