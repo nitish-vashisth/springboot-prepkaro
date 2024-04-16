@@ -1,33 +1,38 @@
 # springboot-champion
 
+- Spring Version Currenlty Using
+- SpringBoot Version Currenty Using
+- Lates version for both
 
-1.	What is Spring Boot ?
+## What is Spring Boot ?
+
 Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run”.
 
-2.	What is Spring?
+## What is Spring?
 •	Application Framework
 •	Programming and configuration model
 •	Infrastructure support
 
-3.	Problem with Spring?
+## Problem with Spring?
 •	Huge Framework
 •	Multiple setup steps
 •	Multiple configuration steps
 •	Multiple build and deploy step
 
-Question : Can we abstract these steps ?  
-Ans : Yes, SpringBoot do that
+#### Can we abstract these steps ?  
+Yes, SpringBoot do that
 
-5.	Spring Boot features
+#### Spring Boot features
 •	Opinionated
 •	Convention over configuration
 •	Stand alone.
 •	Production ready
 
-6.	Build and dependency management.
-1.	Maven 
+## Build and dependency management.
+	
+## Maven 
 
-7.	Creating a project
+## Creating a project
 1.	Using Simple Maven Project and adding spring boot dependency
 
 
@@ -40,30 +45,28 @@ If we want to change the version of any dependency that we want to pull from the
 </properties>
 
 
-8.	Dependency vs Dependency Management
+## Dependency vs Dependency Management
 
 
-9.	@SpringBootApplication
+## @SpringBootApplication
 https://docs.spring.io/spring-boot/docs/2.0.x/reference/html/using-boot-using-springbootapplication-annotation.html
 •	@EnableAutoConfiguration
 •	@ComponentScan
 •	@Configuration
 
-10.	SpringApplication.run main method
+## SpringApplication.run main method
 https://stackoverflow.com/questions/24271705/springapplication-run-main-method
 
 
-11.	Starting SpringBoot Application
+## Starting SpringBoot Application
 •	Setup default configuration
 •	Start Spring application context
 •	Perform classpath scan
 •	Starts Tomcat Server
 
+## Common Annotation
 
-12.	What is a Servlet ?
-
-
-13.	Spring Common Annotation
+Spring Common Annotation
 
 @SpringBootApplication	@Getter	@RestController	
 @EnableAutoConfiguration	@PostConstruct	@CrossOrigin	
@@ -76,13 +79,86 @@ https://stackoverflow.com/questions/24271705/springapplication-run-main-method
 @Service	@EnableListener	@ApiOperation	
 @Qualifier	@EnableWebMVC	@ApiIgnore	
 @Value	@ControllerAdvice	@Controller	
-@Bean	@ExceptionHandler	@Repository	
+@Bean	@ExceptionHandler	@Repository
+
+
+# Dependency Injection and Beans
+
+### Constructor vs Field vs Setter Injection
+
+
+# Spring Boot Data Access
+    - Spring JPA
+    - Spring JDBC
+    - QueryMethod
+
+# RESTful APIs with SpringBoot
+
+# Spring Boot Profiles
+    - different properties based on profiles (like QA, Production)
+
+# SpringBoot Security
+
+- Spring Security
+- 5 spring security concept
+- Authentication	who is the user ?
+- Authorization	Are they allowed to do certain things
+- Principal	currently logged in user
+- Granted Authority	way of providing Authorization.
+- Roles	Group of authority
+
+
+# Spring Boot Logging
+ 
+# Spring Boot Exception Handling
+
+# Spring Boot Caching
+
+# Spring Boot Interceptor
+
+# Spring Boot Scheduling
+
+# SpringBoot Testing
+    - Mockito
+
+# Microservices with SpringBoot
+
+## Introduction to Microservices
+   - Introduction to Microservices
+
+- Service Discovery using Eureka
+    - Microservice Registering
+
+- Tracing the request in multiple Microservices
+    - Sleuth and Zipkin
+    - Sleuth links the trace id with your request
+    - Zipkin help to visualize using the trace id
+ 
+# Spring Cloud Config Servers:
+    - its Configuration managmenet
+
+# Communition between different microservies 
+    - SYNC
+    - ASYNC (messaging queue)
+
+# API Gateway
+
+# Circuit Breaker
+
+# CQRS (Command Query Responsibility Segregation)
+
+# Deployment and Containerization
+ - creating executable JARs and WARs
+
+
+## What is a Servlet ?
+
+
+	
 
     
 
-14. Constructor vs Field vs Setter Injection
-
-
+14.
 
 Other Questions
 
@@ -125,12 +201,6 @@ Interview Bit ->  https://www.interviewbit.com/spring-boot-interview-questions/
 
 
 
-Spring Security
-5 spring security concept
-Authentication	who is the user ?
-Authorization	Are they allowed to do certain things
-Principal	currently logged in user
-Granted Authority	way of providing Authorization.
-Roles	Group of authority
+
 
 
