@@ -131,6 +131,8 @@ Spring Common Annotation
 
    ##### Maven Dependency
    [Spring Boot with Maven](https://docs.spring.io/spring-security/reference/getting-spring-security.html#getting-maven-boot)
+
+   
 	  <dependency>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-security</artifactId>
