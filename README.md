@@ -104,7 +104,7 @@ Spring Common Annotation
 # SpringBoot Security
 
 ## Resources
-	- [What is Spring Security really all about? Java Brains Brain Bytes](https://www.youtube.com/watch?v=sm-8qfMWEV8&list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE)
+- [What is Spring Security really all about? Java Brains Brain Bytes](https://www.youtube.com/watch?v=sm-8qfMWEV8&list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE)
 
 ## Spring Security
 
