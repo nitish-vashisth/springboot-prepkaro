@@ -122,7 +122,8 @@ Spring Common Annotation
 - Granted Authority
   #### Way of providing Authorization
   
-- Roles	Group of authority
+- Roles
+  #### Group of authority
 
 <!------------------------------------------------- Spring Security Concepts Ends ----------------------------------->
 
