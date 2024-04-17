@@ -99,9 +99,12 @@ Spring Common Annotation
 
 # SpringBoot Security
 
-- Spring Security
-- 5 spring security concept
-- Authentication	who is the user ?
+## Spring Security
+
+#### 5 spring security concept
+- Authentication
+  who is the user ?
+	- Knowledege Based Authetiction 
 - Authorization	Are they allowed to do certain things
 - Principal	currently logged in user
 - Granted Authority	way of providing Authorization.
