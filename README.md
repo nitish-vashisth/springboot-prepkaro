@@ -101,10 +101,13 @@ Spring Common Annotation
 
 ## Spring Security
 
-#### 5 spring security concept
+### 5 spring security concept
 - Authentication
-  who is the user ?
-	- Knowledege Based Authetiction 
+  ##### who is the user ?
+	- Knowledege Based 
+ 	- Posession Based
+  	- Multifactor Authentication (ex - 2 Factor)
+  	  
 - Authorization	Are they allowed to do certain things
 - Principal	currently logged in user
 - Granted Authority	way of providing Authorization.
