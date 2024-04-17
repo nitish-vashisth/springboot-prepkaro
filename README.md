@@ -98,7 +98,7 @@ Spring Common Annotation
     - different properties based on profiles (like QA, Production)
 
 
-<------------------------------------------------- Spring Security Concepts Starts ----------------------------------->
+<!------------------------------------------------- Spring Security Concepts Starts ----------------------------------->
 
 
 # SpringBoot Security
@@ -123,7 +123,7 @@ Spring Common Annotation
   
 - Roles	Group of authority
 
-<------------------------------------------------- Spring Security Concepts Ends ----------------------------------->
+<!------------------------------------------------- Spring Security Concepts Ends ----------------------------------->
 
 
 # Spring Boot Logging
