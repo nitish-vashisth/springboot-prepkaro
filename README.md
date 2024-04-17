@@ -138,6 +138,12 @@ Spring Common Annotation
 		<artifactId>spring-boot-starter-security</artifactId>
 	  </dependency>
 
+   ##### Default Behaviour 
+   - Add mandatory Authentication for URL
+   - Add login form
+   - Handle login Error
+   - Create a user and set a default password
+ 
    ##### Filters
 
    
