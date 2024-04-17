@@ -97,21 +97,33 @@ Spring Common Annotation
 # Spring Boot Profiles
     - different properties based on profiles (like QA, Production)
 
+
+<------------------------------------------------- Spring Security Concepts Starts ----------------------------------->
+
+
 # SpringBoot Security
 
 ## Spring Security
 
 ### 5 spring security concept
+
 - Authentication
   ##### who is the user ?
 	- Knowledege Based 
  	- Posession Based
   	- Multifactor Authentication (ex - 2 Factor)
   	  
-- Authorization	Are they allowed to do certain things
-- Principal	currently logged in user
-- Granted Authority	way of providing Authorization.
+- Authorization
+  #### Are they allowed to do certain things
+  
+- Principal
+  #### Currently logged in user.
+  
+- Granted Authority	way of providing Authorization
+  
 - Roles	Group of authority
+
+<------------------------------------------------- Spring Security Concepts Ends ----------------------------------->
 
 
 # Spring Boot Logging
