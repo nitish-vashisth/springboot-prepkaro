@@ -119,7 +119,8 @@ Spring Common Annotation
 - Principal
   #### Currently logged in user.
   
-- Granted Authority	way of providing Authorization
+- Granted Authority
+  #### Way of providing Authorization
   
 - Roles	Group of authority
 
