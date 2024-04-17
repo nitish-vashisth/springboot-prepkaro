@@ -108,22 +108,37 @@ Spring Common Annotation
 ### 5 spring security concept
 
 - Authentication
-  ##### who is the user ?
+     ##### who is the user ?
 	- Knowledege Based 
  	- Posession Based
   	- Multifactor Authentication (ex - 2 Factor)
   	  
 - Authorization
-  #### Are they allowed to do certain things
+     #### Are they allowed to do certain things
   
 - Principal
-  #### Currently logged in user.
+     #### Currently logged in user.
   
 - Granted Authority
-  #### Way of providing Authorization
+     #### Way of providing Authorization
+     #### Fine grained
   
 - Roles
-  #### Group of authority
+     #### Group of authority
+     #### Coarsed grained
+
+### Adding Spring Security to new Spring Boot project
+
+   ##### Maven Dependency
+   [Spring Boot with Maven](https://docs.spring.io/spring-security/reference/getting-spring-security.html#getting-maven-boot)
+	  <dependency>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-security</artifactId>
+	  </dependency>
+
+   ##### Filters
+
+   
 
 <!------------------------------------------------- Spring Security Concepts Ends ----------------------------------->
 
