@@ -149,7 +149,7 @@ Spring Common Annotation
  
    ##### Filters
 
-   
+   @EnableWebSecurity
 
 <!------------------------------------------------- Spring Security Concepts Ends ----------------------------------->
 
