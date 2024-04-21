@@ -173,6 +173,22 @@ Spring Common Annotation
   - JWT
   - OAuth
 
+## Top 12 Tips For API Security
+   #### 1. Use HTTPS
+   #### 2. OAuth2
+   #### 3. WebAuthn
+   #### 4. Use Leveled API key and rotate periodically
+   #### 5. Implement Authorization - Principle of least privilege
+   #### 6. Rate limiting
+   #### 7. Implement API versioning
+   #### 8. Allow listing - Deny All approach, Allow List Approach
+   #### 9. Check OWASP API security risk
+   #### 10. API Gateway
+   #### 11. Error handling - Do not explose sensitive info and anything in error message. Never return full stack trace etc.
+   #### 12. Robust input validation - Client side vs server side
+
+  - [Top 12 Tips For API Security - Byte Byte Go](https://www.youtube.com/watch?v=6WZ6S-qmtqY)
+   
    
 
 
