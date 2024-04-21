@@ -105,7 +105,11 @@ Spring Common Annotation
 
 ## Resources
 - [What is Spring Security really all about? Java Brains Brain Bytes](https://www.youtube.com/watch?v=sm-8qfMWEV8&list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE)
-
+- [Spring Security With JWT for REST API](https://www.toptal.com/spring/spring-security-tutorial)
+- [Spring Security Architecture](https://spring.io/guides/topicals/spring-security-architecture)
+- [Spring Security Interview Questions](https://www.interviewbit.com/spring-security-interview-questions/)
+- [Top 22 Spring Security Interview Questions for Java Programmers](https://www.educative.io/blog/spring-java-interview-questions-practice#jdbc)
+  
 ## Spring Security
 
 ### 5 spring security concept
@@ -147,9 +151,29 @@ Spring Common Annotation
    - Handle login Error
    - Create a user and set a default password
  
-   ##### Filters
+   ## configure Spring Security Authentication
 
-   @EnableWebSecurity
+   #### WebSecurityConfigurererAdapter
+   	configure(AuthernticationManagerBuilder auth) -> Method
+   #### AuthenticationManagerBuilder  -> for Authentication 
+   #### Authentication manager
+   	Authernticate() -> Method
+  #### PasswordEncoder Bean
+  #### HttpSeurity  --> For autherization
+  	configure()
+
+  ### Filters
+
+  ### Other Concepts
+  - JDBC
+  - JPA - Java Peristenet API
+  - [Spring Data](https://spring.io/guides/topicals/spring-security-architecture)
+  - LDAP
+  - JWT
+  - OAuth
+
+   
+
 
 <!------------------------------------------------- Spring Security Concepts Ends ----------------------------------->
 
