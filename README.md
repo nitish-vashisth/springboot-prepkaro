@@ -109,6 +109,7 @@ Spring Common Annotation
 - [Spring Security Architecture](https://spring.io/guides/topicals/spring-security-architecture)
 - [Spring Security Interview Questions](https://www.interviewbit.com/spring-security-interview-questions/)
 - [Top 22 Spring Security Interview Questions for Java Programmers](https://www.educative.io/blog/spring-java-interview-questions-practice#jdbc)
+- [Top 12 Tips For API Security - Byte Byte Go](https://www.youtube.com/watch?v=6WZ6S-qmtqY)
   
 ## Spring Security
 
