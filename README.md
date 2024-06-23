@@ -283,6 +283,10 @@ https://stackoverflow.com/questions/47462950/application-yml-vs-application-prop
 Interview Questions
 Interview Bit ->  https://www.interviewbit.com/spring-boot-interview-questions/
 
+ToDo:
+1. Creating a custom springboot starter
+2. Fault tolerance and resileince using Resileience4j
+
 
 Referernces
 
