@@ -1,7 +1,15 @@
-# [Must know concepts before starting SpringBoot](https://prepkaro.com/must-know-springboot-concepts/)
+# Must know concepts before starting SpringBoot
 - Framework
 - Inversion of Control (IOC)
+- Spring Beans
+- Dependency Injection
+- Bean Scope
+- Spring MVC
+- Spring Webflux
+- Aspect Oriented Programming (AOP)
+- Spring AOP 
 
+ Full Article : [Must know concepts before starting SpringBoot](https://prepkaro.com/must-know-springboot-concepts/)
 
 # springboot-champion
 
