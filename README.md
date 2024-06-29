@@ -11,6 +11,26 @@
 
  Full Article : [Must know concepts before starting SpringBoot](https://prepkaro.com/must-know-springboot-concepts/)
 
+
+# Communication and Discovery
+- Service Discovery
+- Netflix Eureka
+
+[Spring Boot Microservices Level - Communication and Discovery](https://www.youtube.com/watch?v=y8IQb4ofjDo&list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas)
+
+#  Fault Tolerance and Resilience
+- Fault Tolerance
+- Resilience
+- Timeout Pattern
+- Retry Pattern
+- Fail Fast
+- Circuit Breaker Pattern
+- Bulkhead Pattern
+- Rate Limiter
+- resilience4j
+
+ [Spring Boot Microservices Level 2 - Fault Tolerance and Resilience](https://www.youtube.com/watch?v=o8RO38KbWvA&list=PLqq-6Pq4lTTbXZY_elyGv7IkKrfkSrX5e)
+ 
 # springboot-champion
 
 - Spring Version Currenlty Using
