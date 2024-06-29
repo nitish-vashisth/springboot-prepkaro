@@ -1,6 +1,6 @@
 # [Must know concepts before starting SpringBoot](https://prepkaro.com/must-know-springboot-concepts/)
-	- Framework
-	- Inversion of Control (IOC)
+- Framework
+- Inversion of Control (IOC)
 
 
 # springboot-champion
