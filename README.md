@@ -298,8 +298,9 @@ Referernces
 |[Spring Boot Microservices Level 2](https://www.youtube.com/watch?v=o8RO38KbWvA&list=PLqq-6Pq4lTTbXZY_elyGv7IkKrfkSrX5e) |          |
 
 
+PrepKaro
 
-
+[Must know concepts before starting SpringBoot](https://prepkaro.com/must-know-springboot-concepts/)
 
 
 
