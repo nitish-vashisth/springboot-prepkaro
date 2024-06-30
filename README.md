@@ -11,6 +11,10 @@
 
  Full Article : [Must know concepts before starting SpringBoot](https://prepkaro.com/must-know-springboot-concepts/)
 
+ # Introduction
+
+ # 
+
 
 # Communication and Discovery
 - Service Discovery
@@ -30,7 +34,13 @@
 - resilience4j
 
  [Spring Boot Microservices Level 2 - Fault Tolerance and Resilience](https://www.youtube.com/watch?v=o8RO38KbWvA&list=PLqq-6Pq4lTTbXZY_elyGv7IkKrfkSrX5e)
- 
+
+# Microservice configuration
+
+
+
+
+
 # springboot-champion
 
 - Spring Version Currenlty Using
