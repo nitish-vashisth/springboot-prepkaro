@@ -341,9 +341,26 @@ Referernces
 |[Spring Boot Microservices Level 2](https://www.youtube.com/watch?v=o8RO38KbWvA&list=PLqq-6Pq4lTTbXZY_elyGv7IkKrfkSrX5e) |          |
 
 
+
+
 PrepKaro
 
 [Must know concepts before starting SpringBoot](https://prepkaro.com/must-know-springboot-concepts/)
+
+
+# Interview Questions
+
+1. What is Spring boot?
+2. Features of SpringBoot ?
+3. Spring vs SpringBoot ?
+4. How SpringBoot works ?
+5. @SpringBootApplication , @ComponentScan
+6. What does the @SpringBootApplication annotation do internally?
+7. @SpringBootApplication = { @Configuration, @EnableAutoConfiguration, @ComponentScan }
+
+Source : 
+[InterviewBit](https://www.interviewbit.com/spring-boot-interview-questions/)
+
 
 
 
