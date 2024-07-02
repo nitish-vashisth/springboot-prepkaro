@@ -357,6 +357,10 @@ PrepKaro
 5. @SpringBootApplication , @ComponentScan
 6. What does the @SpringBootApplication annotation do internally?
 7. @SpringBootApplication = { @Configuration, @EnableAutoConfiguration, @ComponentScan }
+8. How does a spring boot application get started?
+9. Spring Initializer
+10. Starter dependencies?  [Top 7 Spring Boot Starters You Should Know in 2024 - Java Brains](https://www.youtube.com/watch?v=6sgjRygYVJk)
+11. 
 
 Source : 
 [InterviewBit](https://www.interviewbit.com/spring-boot-interview-questions/)
