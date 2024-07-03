@@ -350,9 +350,9 @@ PrepKaro
 
 # Interview Questions
 
-1. What is Spring boot?
-2. Features of SpringBoot ?
-3. Spring vs SpringBoot ?
+1. What is Spring boot ?
+2. Features of SpringBoot 
+3. Spring vs SpringBoot 
 4. How SpringBoot works ?
 5. @SpringBootApplication , @ComponentScan
 6. What does the @SpringBootApplication annotation do internally?
@@ -363,7 +363,22 @@ PrepKaro
 11. @RestController and @Controller
 	[Answer1-StackOverflow](https://stackoverflow.com/questions/25242321/difference-between-spring-controller-and-restcontroller-annotation)
 	[Answer1-StackOverflow](https://stackoverflow.com/questions/28646332/how-does-the-spring-responsebody-annotation-work)
-13. 
+12. IOC container
+13. Describe the flow of HTTPS requests through the Spring Boot application ?
+14. RequestMapping  vs GetMapping
+15. Profiles in spring boot
+16. Actuator
+17. How to enable Actuator in Spring boot application ?
+18. What are the actuator-provided endpoints used for monitoring the Spring boot application? (Health, Info, Beans, Mappings, Configprops, Httptrace, Heapdump, Threaddump, Shutdown)
+19. How to enable debugging log in the spring boot application ?
+20. Where do we define properties in the Spring Boot application ?
+21. Dependency Injection
+22. How to disable a specific auto-configuration class? @EnableAutoConfiguration(exclude={className})
+23. Can we override or replace the Embedded tomcat server in Spring Boot?
+24. Default port and how to change it ? 8080. It can be changed by adding sever.port properties in the application.property file.
+25. Spring Boot dependency management
+26. 
+    
 
 Source : 
 [InterviewBit](https://www.interviewbit.com/spring-boot-interview-questions/)
