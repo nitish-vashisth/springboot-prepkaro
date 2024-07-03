@@ -360,7 +360,10 @@ PrepKaro
 8. How does a spring boot application get started?
 9. Spring Initializer
 10. Starter dependencies?  [Top 7 Spring Boot Starters You Should Know in 2024 - Java Brains](https://www.youtube.com/watch?v=6sgjRygYVJk)
-11. 
+11. @RestController and @Controller
+	[Answer1-StackOverflow](https://stackoverflow.com/questions/25242321/difference-between-spring-controller-and-restcontroller-annotation)
+	[Answer1-StackOverflow](https://stackoverflow.com/questions/28646332/how-does-the-spring-responsebody-annotation-work)
+13. 
 
 Source : 
 [InterviewBit](https://www.interviewbit.com/spring-boot-interview-questions/)
