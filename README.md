@@ -377,7 +377,9 @@ PrepKaro
 23. Can we override or replace the Embedded tomcat server in Spring Boot?
 24. Default port and how to change it ? 8080. It can be changed by adding sever.port properties in the application.property file.
 25. Spring Boot dependency management
-26. 
+26. Spring Rest vs Jax-RS - [StackOverflow-Answer](https://stackoverflow.com/questions/42944777/difference-between-jax-rs-and-spring-rest)
+27. JaxRs vs Jax-Ws - [StackOverflow-Answer](https://stackoverflow.com/questions/16539858/what-is-the-difference-between-jax-rs-and-jax-ws)
+28. 
     
 
 Source : 
