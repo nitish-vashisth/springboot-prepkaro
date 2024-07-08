@@ -1,5 +1,6 @@
 # Must know concepts before starting SpringBoot
 - Framework
+- Spring
 - Inversion of Control (IOC)
 - Spring Beans
 - Dependency Injection
@@ -13,7 +14,45 @@
 
  # Introduction
 
- # 
+ 
+
+ # Restful Webservices
+
+ Webservice -> Service that are exposed to internet for programmatic access
+
+ Restful Web Services
+ Soap Web Services
+
+ ## Web Services Characteristic
+HTTP request , HTTP Resonse (Http Exchange)
+XML / jSON - Data format
+
+### Protocol
+Message Format (for ex Soap Protocol)
+Rest -> There is not protocol
+
+### Method
+There is no rule. Though there is guideline
+
+### Service Definition
+Soap -> WSDL . And made availale to all client
+Rest -> little to No Standard
+
+SOAP web service specification
+
+Rest - This is just an Idea. There are no rule
+
+Rest -> Representational State Transfer
+
+Rest + Web Service = Restful webservice 
+
+Not Restful ---- Not Fully Restfull ---- Completely Restful
+
+
+
+
+
+
 
 
 # Communication and Discovery
