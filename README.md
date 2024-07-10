@@ -48,6 +48,24 @@ Rest + Web Service = Restful webservice
 
 Not Restful ---- Not Fully Restfull ---- Completely Restful
 
+### Rest and HTTP
+
+HTTP
+HTML
+Resource Location - API Address (Practice is to use resources based) should not be action based. Its just a lookup for something
+
+HTTP Method
+- Get
+- Post
+- Put
+- Delete
+
+A good Resfull api make a good choise of these menthods
+
+Metadata
+--> HTTP Status Code . Why send status code ?
+--> Headers
+
 
 
 
