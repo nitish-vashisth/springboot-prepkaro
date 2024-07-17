@@ -64,7 +64,11 @@ A good Resfull api make a good choise of these menthods
 
 Metadata
 --> HTTP Status Code . Why send status code ?
---> Headers
+--> Headers - Content type
+--> Content negotiation
+
+V-3
+
 
 
 
