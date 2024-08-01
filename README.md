@@ -440,7 +440,7 @@ PrepKaro
 25. Spring Boot dependency management
 26. Spring Rest vs Jax-RS - [StackOverflow-Answer](https://stackoverflow.com/questions/42944777/difference-between-jax-rs-and-spring-rest)
 27. JaxRs vs Jax-Ws - [StackOverflow-Answer](https://stackoverflow.com/questions/16539858/what-is-the-difference-between-jax-rs-and-jax-ws)
-28. 
+28. spring-boot-starters - custom spring boot starter
     
 
 Source : 
