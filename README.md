@@ -441,6 +441,7 @@ PrepKaro
 26. Spring Rest vs Jax-RS - [StackOverflow-Answer](https://stackoverflow.com/questions/42944777/difference-between-jax-rs-and-spring-rest)
 27. JaxRs vs Jax-Ws - [StackOverflow-Answer](https://stackoverflow.com/questions/16539858/what-is-the-difference-between-jax-rs-and-jax-ws)
 28. spring-boot-starters - custom spring boot starter
+29. How to create a custom annotation
     
 
 Source : 
